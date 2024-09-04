@@ -12,7 +12,7 @@
   <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0;
   <a href="#memo-project-structure">Project Structure</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/bikcraft" target="_blank">Author</a>
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 <br>
 
