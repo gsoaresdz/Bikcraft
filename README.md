@@ -5,78 +5,76 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/bikcraft?color=56BEB8">
 </p>
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-páginas">Páginas</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-estrutura-do-projeto">Estrutura do Projeto</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/bikcraft" target="_blank">Autor</a>
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-pages">Pages</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0;
+  <a href="#memo-project-structure">Project Structure</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/bikcraft" target="_blank">Author</a>
 </p>
 <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-Bikcraft é um site voltado para a comercialização de bicicletas artesanais. O projeto é composto por várias páginas estáticas desenvolvidas com HTML, CSS e JavaScript.
+Bikcraft is a website focused on the sale of handcrafted bicycles. The project consists of several static pages developed using HTML, CSS, and JavaScript.
 
-## **:sparkles: Páginas**
+## **:sparkles: Pages**
 
-:heavy_check_mark: **Home**: Página inicial com informações sobre a marca e os produtos
+:heavy_check_mark: **Home**: Landing page with information about the brand and products
 
-:heavy_check_mark: **Bicicletas**: Página detalhada com as bicicletas disponíveis
+:heavy_check_mark: **Bicycles**: Detailed page with available bicycles
 
-:heavy_check_mark: **Seguros**: Informações sobre seguros para bicicletas
+:heavy_check_mark: **Insurance**: Information about bicycle insurance
 
-:heavy_check_mark: **Orçamento**: Formulário para solicitação de orçamento
+:heavy_check_mark: **Quote**: Form for requesting a quote
 
-:heavy_check_mark: **Contato**: Página de contato para dúvidas e suporte
+:heavy_check_mark: **Contact**: Contact page for questions and support
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-As seguintes tecnologias foram usadas no projeto:
+The following technologies were used in the project:
 
 - HTML
 - CSS
 - JavaScript
-- PHP (para envio de formulários)
+- PHP (for form submission)
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Antes de iniciar :checkered_flag:, você precisará ter um servidor local para rodar o projeto, como XAMPP ou WAMP.
+Before starting :checkered_flag:, you will need to have a local server to run the project, such as XAMPP or WAMP.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Execution**
 
-### 1. Clone o Repositório
+### 1. Clone the Repository
 
 ```bash
 $ git clone https://github.com/gsoaresdz/bikcraft.git
 ```
 
-### 2. Instale o servidor local (ex: XAMPP) e inicie o servidor
+### 2. Install the local server (e.g., XAMPP) and start the server
 
-### 3. Coloque os arquivos do projeto na pasta `htdocs` do seu servidor local
+### 3. Place the project files in the `htdocs` folder of your local server
 
-### 4. Acesse o projeto no navegador via `localhost`
+### 4. Access the project in your browser via `localhost`
 
-## **:memo: Estrutura do Projeto**
+## **:memo: Project Structure**
 
-Os principais arquivos e diretórios do projeto são:
+The main files and directories of the project are:
 
-- **index.html**: Página principal do site
-- **bicicletas.html**: Página com detalhes das bicicletas
-- **contato.html**: Página de contato
-- **css/**: Contém todos os arquivos de estilo (CSS)
-- **img/**: Imagens utilizadas no site
-- **js/**: Scripts JavaScript
-- **enviar.php**: Script para envio de formulários
+- **index.html**: Main page of the website
+- **bicicletas.html**: Page with bicycle details
+- **contato.html**: Contact page
+- **css/**: Contains all the style files (CSS)
+- **img/**: Images used on the website
+- **js/**: JavaScript scripts
+- **enviar.php**: Script for form submission
 
-## **:memo: Licença**
+## **:memo: License**
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE).
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
-&#xa0;
-
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
